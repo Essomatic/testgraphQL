@@ -21,9 +21,7 @@ some text here too
 
 
 
-<div id="metatavu-custom-footer">---
-
-<div align="center">
+<div id="metatavu-custom-footer"><div align="center">
     <img src="https://metatavu.fi/wp-content/uploads/2024/02/cropped-metatavu-favicon.jpg" alt="Metatavu Logo" width="100">
     <p>© 2024 Metatavu. All rights reserved.</p>
     <table>

@@ -8,9 +8,13 @@ some text here too
 
 
 
-
-
-
+test
+test
+test
+test
+test
+test
+test
 
 <div id="metatavu-custom-footer"><div align="center">
     <h2></h2>

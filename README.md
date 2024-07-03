@@ -8,13 +8,11 @@ some text here too
 
 
 
-test
-test
-test
-test
-test
-test
-test
+NO TEST
+NO TEST
+NO TEST
+NO TEST
+NO TEST
 
 
 <div id="metatavu-custom-footer"><div align="center">

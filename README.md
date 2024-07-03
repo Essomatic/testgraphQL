@@ -16,10 +16,11 @@ test
 test
 test
 
+
 <div id="metatavu-custom-footer"><div align="center">
     <h2></h2>
     <img src="https://metatavu.fi/wp-content/uploads/2024/02/cropped-metatavu-favicon.jpg" alt="Metatavu Logo" width="100">
-    <p>© 2024 Iiro. All rights reserved.</p>
+    <p>© 2024 cha. All rights reserved.</p>
     <table>
         <tr>
             <td align="center">

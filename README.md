@@ -13,6 +13,7 @@ NO TEST
 ssss
 sss
 
+
 <div id="metatavu-custom-footer"><div align="center">
-    <h2>Reees</h2>
+    <h2>Example</h2>
 </div></div>

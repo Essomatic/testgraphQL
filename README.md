@@ -15,6 +15,7 @@ sss
 
 
 <div id="metatavu-custom-footer"><div align="center">
+  <hr>
   <img src="https://metatavu.fi/wp-content/uploads/2024/02/cropped-metatavu-favicon.jpg" alt="Organization Logo" width="100">
   <p>© 2024 Metatavu. All rights reserved.</p>
   <p>

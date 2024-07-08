@@ -15,5 +15,5 @@ sss
 
 
 <div id="metatavu-custom-footer"><div align="center">
-    <h2>Example2</h2>
+    <h2>Testings</h2>
 </div></div>
